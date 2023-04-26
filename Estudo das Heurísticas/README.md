@@ -5,3 +5,7 @@
 https://lattes.cnpq.br/
 
 https://www.freebsd.org/copyright/daemon/
+  
+https://alistamento.eb.mil.br/
+  
+https://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/home
