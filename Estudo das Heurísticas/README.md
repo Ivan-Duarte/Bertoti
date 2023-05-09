@@ -14,7 +14,7 @@ Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de 
  <br>
   <div align="center">
     <h2>Img 1.0</h2>
-    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/statusgifmaker.gif">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/gifgoogle.gif">
   </div>
   
 > Descrição: 
