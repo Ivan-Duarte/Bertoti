@@ -6,10 +6,11 @@
 
 **Proposta** - Buscar em sites e/ou aplicações on-line, exemplos que possam demonstrar boas e más aplicações das heurísticas de Nielsen.
 
+Todas as informações a respeito das **10 Heurísticas de Nielsen** estão baseadas no site da empresa <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen Norman Group</a>
 
 <div align="left">
 <h2>1ª Heurística de Nielsen - "Visibilidade do Status do Sistema"</h2>
-Nesta primeira Heurística segundo o próprio site da <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen Norman Group</a>
+Nesta primeira Heurística
  <br>
   <div align="center">
     <h2>Img 1</h2>
@@ -21,7 +22,7 @@ Nesta primeira Heurística segundo o próprio site da <a href="https://www.nngro
 <br>
 <div align="left">
 <h2>2ª Heurística de Nielsen - "Correspondência entre o sistema e o mundo real"</h2>
-Nesta primeira Heurística segundo o próprio site da <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen Norman Group</a>
+Nesta segunda Heurística
  <br>
   <div align="center">
     <h2>Img 1</h2>
