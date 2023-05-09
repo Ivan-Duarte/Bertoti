@@ -19,6 +19,18 @@ Nesta primeira Heurística segundo o próprio site da <a href="https://www.nngro
 > Descrição: 
 </div>
 <br>
+<div align="left">
+<h2>2ª Heurística de Nielsen - "Correspondência entre o sistema e o mundo real"</h2>
+Nesta primeira Heurística segundo o próprio site da <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen Norman Group</a>
+ <br>
+  <div align="center">
+    <h2>Img 1</h2>
+    <img align="center" height="165em" src="">
+  </div>
+  
+> Descrição: 
+</div>
+<br>
 <h3> Links de sites relevantes <h3>
   
 
