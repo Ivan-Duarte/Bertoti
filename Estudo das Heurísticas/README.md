@@ -21,6 +21,9 @@
 <br>
 <h3> Links de sites relevantes <h3>
   
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
+ 
 https://lattes.cnpq.br/
 
 https://www.freebsd.org/copyright/daemon/
