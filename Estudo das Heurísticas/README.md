@@ -26,7 +26,7 @@ Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de 
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/statusgifmaker.gif">
   </div>
   
-> Descrição: 
+> O site que utilizei para converter videos em GIFs disponibiliza uma barra de status de conversão, permitindo o usuário saber visualmente a etapa do processo de conversão 
 </div>
 <br>
 <div align="left">
