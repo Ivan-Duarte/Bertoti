@@ -1,26 +1,17 @@
-# 10 Heuristicas de Nielsen <h1>
-> Descrição: 
+# 10 Heuristicas de Nielsen
+>  
   
-<div align="center">
 
-  <h2>Img 1<h2>
-    <img height="165em" src="">
-<p>
+<div align="left">
+  <div align="center">
+    <h2>Img 1</h2>
+    <img align="center" height="165em" src="">
+  </div>
+  
 > Descrição: 
-</p>
-  <img height="165em" src="">
-  <br>
-  <img height="165em" src="">
-  <br>
-  <img height="165em" src="">
-  <br>
-  <img height="165em" src="">
-  <br>
-  <img height="165em" src="">
-  <br>
-  <img height="165em" src="">
 </div>
   
+ --- 
   
 <h3> Links de sites relevantes <h3>
   
