@@ -2,11 +2,15 @@
 > As 10 Heurísticas de Nielsen são um conjunto de princípios de usabilidade para o desing de interfaces de usuário,
 > criados pelo renomado especialista em (UX - User Experience), Jakob Nielsen. Essas 10 heurísticas são utilizadas como um conjunto de boas
 > práticas para avaliar a qualidade da experiência do usuário em uma variedade de produtos e serviços digitais, como sites, aplicativos e softwares.
-  
-## Proposta :
+<br>
+
+**Proposta** - Buscar em sites e/ou aplicações on-line, exemplos que possam demonstrar boas e más aplicações das heurísticas de Nielsen.
 
 
 <div align="left">
+<h2>1ª Heurística de Nielsen - "Visibilidade do Status do Sistema"</h2>
+ Texto descritivo aqui seguindo a imagem abaixo
+ <br>
   <div align="center">
     <h2>Img 1</h2>
     <img align="center" height="165em" src="">
@@ -14,9 +18,7 @@
   
 > Descrição: 
 </div>
-  
- --- 
-  
+<br>
 <h3> Links de sites relevantes <h3>
   
 https://lattes.cnpq.br/
