@@ -13,11 +13,11 @@
 Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de forma que, a principal caracteristica dessa Heurística é a de dar confiabilidade para o Usuário fazendo com que ele tenha conhecimento de que suas ações no site/aplicação foram reconhecidas pelo sistema.
  <br>
   <div align="center">
-    <h2>Img 1.0</h2>
+    <h2>Img 1.0 - Google Maps</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/gifgoogle.gif">
   </div>
   
-> Descrição: 
+> Sempre que o usuário escreve algo na barra de pesquisa, quase que instantaneamente o Google disponibiliza diversas sugestões de acordo com o que está sendo escrito, justamente para informar o usuário que sua busca esta sendo registrada pelo navegador.
 </div>
 <div align="left">
  <br>
