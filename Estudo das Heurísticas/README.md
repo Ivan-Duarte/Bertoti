@@ -9,7 +9,7 @@
 
 <div align="left">
 <h2>1ª Heurística de Nielsen - "Visibilidade do Status do Sistema"</h2>
- Texto descritivo aqui seguindo a imagem abaixo
+Nesta primeira Heurística segundo o próprio site da <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen Norman Group</a>
  <br>
   <div align="center">
     <h2>Img 1</h2>
