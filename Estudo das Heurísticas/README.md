@@ -13,8 +13,17 @@
 Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de forma que, a principal caracteristica dessa Heurística é a de dar confiabilidade para o Usuário fazendo com que ele tenha conhecimento de que suas ações no site/aplicação foram reconhecidas pelo sistema.
  <br>
   <div align="center">
-    <h2>Img 1</h2>
-    <img align="center" height="165em" src="">
+    <h2>Img 1.0</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/statusgifmaker.gif">
+  </div>
+  
+> Descrição: 
+</div>
+<div align="left">
+ <br>
+  <div align="center">
+    <h2>Img 1.1</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/statusgifmaker.gif">
   </div>
   
 > Descrição: 
