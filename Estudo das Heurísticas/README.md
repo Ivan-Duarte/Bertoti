@@ -49,7 +49,7 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
  
-> Para o site de Alistamento Militar, temos um bom exemplo de implementação da 2ª Heurística de Nielsen, pois aqui podemos perceber uma interface simples e com poucos elementos, titulos diretos e botões com boas descrições. Isso é importante quando levamos em conta que a grande maioria dos usuarios desse site tem entre 16 a 20 anos e que segundo dados do <a href="https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/28285-pnad-educacao-2019-mais-da-metade-das-pessoas-de-25-anos-ou-mais-nao-completaram-o-ensino-medio">IBGE<a/> quase metáde da população com essa faixa etária não teria concluido o ensino médio, com isso, o uso da 2ª Heurística deve ser  essencial.
+> Para o site de Alistamento Militar, temos um bom exemplo de implementação da 2ª Heurística de Nielsen pois aqui podemos perceber uma interface simples, sem jargões do meio militar, contendo poucos elementos, titulos diretos e botões com boas descrições. Isso é importante quando levamos em conta que a grande maioria dos usuarios desse site tem entre 16 a 20 anos e que segundo dados do <a href="https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/28285-pnad-educacao-2019-mais-da-metade-das-pessoas-de-25-anos-ou-mais-nao-completaram-o-ensino-medio">IBGE<a/> quase metáde da população com essa faixa etária não teria concluido o ensino médio, com isso, o uso da 2ª Heurística deve ser  essencial.
 </div>
 <br>
 
