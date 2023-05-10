@@ -110,8 +110,8 @@ Nesta quarta Heurística precisamos ter em mente que o usuário não deve se per
 
 ---
 
-<h2>5ª Heurística de Nielsen - "Precenções de Erros"</h2>
-Nesta ... Heurística ...
+<h2>5ª Heurística de Nielsen - "Prevenções de Erros"</h2>
+Nesta quinta Heurística como o nome já sugere iremos priorizar a prevenção de erros cometidos pelo usuário, para isso tratamos de dois tipos de erros: deslizes e enganos. Deslizes são erros inconscientes causados por desatenção, já os enganos são baseados em uma incompatibilidade entre o modelo mental do usuário e o design.
  <br>
   <div align="center">
     <h2>Img 5.0</h2>
