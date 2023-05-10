@@ -40,7 +40,7 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
     <img align="center" height="350" width="70%" src="">
   </div>
   
-> Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
+> Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
 </div>
 </div>
 <div align="left">
