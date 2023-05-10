@@ -36,16 +36,16 @@ Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de 
 Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
  <br>
   <div align="center">
-    <h2>Img 2.0 - Alistamento Militar</h2>
+    <h2>Img 2.0 - Design Skeumórfico</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/gifeditor.JPG">
   </div>
   
-> Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais. Nesta imagem temos um exemplo perfeito da utilização desse conceito skeumorfico, nos icones de "SAVE"(salvar) podemos observar que é utilizado a imagem de um disquete, isso se dá por conta que anteriormente foi utilizado esse simbolo por muito tempo na tecnologia da informaçõa para representar o armazenamento de dados, e o conceito skeumorfico fala sobre utilizar experiencias passadas para formar uma espécie de "memória mental" para que no momento que o usuário visualizar um determinado icone ele poder associar sua funcionalidade. 
+> Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumórfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais. Nesta imagem temos um exemplo perfeito da utilização desse conceito skeumórfico, nos icones de "SAVE"(salvar) podemos observar que é utilizado a imagem de um disquete, isso se dá por conta que anteriormente foi utilizado esse simbolo por muito tempo na tecnologia da informaçõa para representar o armazenamento de dados, e o conceito skeumorfico fala sobre utilizar experiencias passadas para formar uma espécie de "memória mental" para que no momento que o usuário visualizar um determinado icone ele poder associar sua funcionalidade. 
 </div>
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 2.1</h2>
+    <h2>Img 2.1 - Alistamento Militar</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
  
