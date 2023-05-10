@@ -189,7 +189,7 @@ Nesta nona Heurística é preciso solidificar três pontos chaves com relação 
 <div align="left">
   <div align="center">
     <h2>Img 9.1 - Sugestão para correção de erro</h2>
-    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/googlepesq.JPG"">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/googlepesq.JPG">
   </div>
  
 > Neste caso o Google identificou o input do usuário e verificou que não correspondia com algo presente em seu banco de dados, como não achou nenhum resultado similar o sistema sugeriu uma alternativa de pesquisa. Essa é uma forma de direcionar o usuário após um erro.
@@ -206,7 +206,7 @@ Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal n
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/wordhelp.JPG">
   </div>
   
-> Nesta imagem podemos ver o editor de texto da Microsoft "Word",   
+> Nesta imagem podemos ver o editor de texto da Microsoft "Word", nele temos a opção "Help" que se divide em várias sub-categorias, todas elas com a finalidade de exemplificar e explicar as funcionalidades do Editor de Texto   
 </div>
 </div>
 <div align="left">
@@ -215,8 +215,7 @@ Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal n
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/javadoc.JPG">
   </div>
  
-> Descrição:
-</div>
+> Aqui temos a documentação da linguagem Java, um exemplo de documentação mais especifica que não está relacionada diretamente com a 10ª Heuristica de Nielsen porque o Java é uma linguagem de programação de alto nível projetada para ser independente de plataforma e não um sistema, mas a sua documentação segue parametros que podemos relacionar com a 10ª Heuristica de Nielsen. Um deles que está relacionado é o de seguir passos para concluir uma tarefa, onde o código tem sua sintaxe explicada passo a passo para facilitar o usuário(desenvolvedor) a entender e criar o código.
 <br>
 
 ---
