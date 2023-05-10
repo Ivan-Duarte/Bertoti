@@ -166,7 +166,7 @@ Nesta oitava Heurística o foco está em não poluir a visão do usuário com um
  <br>
   <div align="center">
     <h2>Img 8.0 - Design Limpo e Objetivo</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/cnn.gif">
   </div>
   
 > Descrição:  
