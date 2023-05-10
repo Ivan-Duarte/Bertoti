@@ -63,7 +63,7 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/advrtc.JPG">
   </div>
   
-> Nas paginas de navegadores temos um exemplo claro de "Saída/Retorno de Emergência" com os botões de Rewind "<" e Foward ">", o usuário se sente mais confiante em utilizar o sistema porque sabe que caso entre em alguma pagina por engano ele poderá simplemente retornar para a pagina anterior. 
+> Nas paginas de navegadores temos um exemplo claro de "Saída/Retorno de Emergência" com os botões de Rewind "<" e Foward ">", o usuário se sente mais confiante em utilizar o sistema porque sabe que caso entre em alguma pagina por engano ele poderá simplemente retornar para a pagina anterior.
 </div>
 </div>
 <div align="left">
@@ -73,6 +73,15 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
   </div>
  
 > Aqui temos um exemplo de um formulário, uma pagina destinada para obter informações inseridas pelo usuário. Seguindo a 3ª Heurística o usuário precisa ter a opção de "Sair/Cancelar" para esta ação de formulário sem que tenha nenhum tipo de "punição", como por exemplo, ao cancelar o cadastro de um curriculo ele não conseguiria retornar a página inicial, isso seria um erro, ele deveria conseguir retornar automáticamente como acontece na plataforma.
+</div>
+</div>
+<div align="left">
+  <div align="center">
+    <h2>Img 3.1 - Botão de Cancelar</h2>
+    <img align="center" height="350" width="70%" src="">
+  </div>
+ 
+> Um outro exemplo que podemos utilizar como referência da 3ª Heurística é o sistema de lixeira das aplicações de Email, aonde ao deletar um email, o mesmo fica armazenado por 30 dias na lixeira até ser excluido pelo sistema, ou até o usuario confirmar sua exclusão na lixeira.
 </div>
 <br>
 
