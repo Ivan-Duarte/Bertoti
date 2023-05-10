@@ -110,7 +110,7 @@ Nesta quarta Heurística precisamos ter em mente que o usuário não deve se per
 
 ---
 
-<h2>5ª Heurística de Nielsen - ""</h2>
+<h2>5ª Heurística de Nielsen - "Precenções de Erros"</h2>
 Nesta ... Heurística ...
  <br>
   <div align="center">
