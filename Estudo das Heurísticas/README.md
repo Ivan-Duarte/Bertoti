@@ -59,8 +59,8 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
 Nesta terceira Heurística o controle do usuário e sua liberdade está associada a confiança que o usuário ira ter ao utilizar a aplicação ou site, aqui é introduzido o conceito de "Saída de Emergencia" funcionalidades que permitam o usuario cancelar uma ação caso tenha errado ao navegar ou simplesmente entrado em determinada funcionalidade por mera curiosidade
  <br>
   <div align="center">
-    <h2>Img 3.0</h2>
-    <img align="center" height="350" width="70%" src="">
+    <h2>Img 3.0 - Retroceder e Avançar</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/advrtc.JPG">
   </div>
   
 > Descrição:  
