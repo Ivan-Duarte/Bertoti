@@ -55,8 +55,8 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
 
 ---
 
-<h2>3ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>3ª Heurística de Nielsen - "Controle e liberdade do usuário"</h2>
+Nesta terceira Heurística o controle do usuário e sua liberdade está associada a confiança que o usuário ira ter ao utilizar a aplicação ou site, aqui é introduzido o conceito de "Saída de Emergencia" funcionalidades que permitam o usuario cancelar uma ação caso tenha errado ao navegar ou simplesmente entrou em determinada funcionalidade por mera curiosidade
  <br>
   <div align="center">
     <h2>Img 3.0</h2>
