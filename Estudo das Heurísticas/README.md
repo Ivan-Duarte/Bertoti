@@ -180,10 +180,10 @@ Nesta nona Heurística é preciso solidificar três pontos chaves com relação 
  <br>
   <div align="center">
     <h2>Img 9.0 - Mensagem de erro</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/googleconta.JPG">
   </div>
   
-> Descrição:  
+> Quando o usuário vai criar uma nova conta no Google e por algum motivo esquece de algum campo, o navegador avisa e destaca os campos que precisam ser preenchidos antes de enviar os dados para serem processados, essa prática é boa tanto para evitar equivocos do cliente, quanto para o tratamento de informações pelo banco de Dados.
 </div>
 </div>
 <div align="left">
