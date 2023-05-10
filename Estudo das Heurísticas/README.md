@@ -220,7 +220,10 @@ Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal n
 
 ---
 
-<h3> Links de sites relevantes <h3>
+##Conclusão 
+ 
+ 
+<h3> Links de sites relevantes para a pesquisa<h3>
   
 
 https://www.nngroup.com/articles/ten-usability-heuristics/
