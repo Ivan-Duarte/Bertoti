@@ -123,11 +123,11 @@ Nesta quinta Heurística como o nome já sugere iremos priorizar a prevenção d
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 5.1 - </h2>
-    <img align="center" height="350" width="70%" src="">
+    <h2>Img 5.1 - Erro no Commit</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/giterror.gif">
   </div>
  
-> Descrição:
+> Ainda no GitHub podemos notar que quando o usuário vai inserir algum arquivo no repositório mas ele não aguarda a barra verde chegar ao 100%, seja por impaciencia ou simplesmente erro ao clicar no botão, o GitHub não carrega mais nenhuma página, deixando o usuário perdido. Esse é um exemplo de erro na 5ª Heurística de Nielsen.
 </div>
 <br>
 
