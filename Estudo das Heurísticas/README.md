@@ -37,7 +37,7 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
  <br>
   <div align="center">
     <h2>Img 2.0 - Alistamento Militar</h2>
-    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
+    <img align="center" height="350" width="70%" src="">
   </div>
   
 > Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
@@ -46,10 +46,10 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
 <div align="left">
   <div align="center">
     <h2>Img 2.1</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
  
-> O site que utilizei para converter videos em GIFs disponibiliza uma barra de status de conversão, permitindo o usuário saber visualmente a etapa do processo de conversão além de dicas visuais como o logo do site, que fica em movimento enquanto houver conexão com a rede.
+> Para o site de Alistamento Militar, temos um bom exemplo de uma boa implementação a 2ª Heurística de Nielsen, pois aqui podemos perceber uma interface simples e com poucos elementos, titulos diretos e botões com boas descrições, levando em conta de que a grande maioria dos usuarios desse site tem entre 16 a 20 anos e que segundo dados do <a href="https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/28285-pnad-educacao-2019-mais-da-metade-das-pessoas-de-25-anos-ou-mais-nao-completaram-o-ensino-medio">IBGE<a/> quase metáde da população com essa faixa etária não teria concluido o ensino médio, com isso, o uso da 2ª Heurística deve ser  essencial.
 </div>
 <br>
 
