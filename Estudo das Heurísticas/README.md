@@ -118,7 +118,7 @@ Nesta quinta Heurística como o nome já sugere iremos priorizar a prevenção d
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/github.JPG">
   </div>
   
-> Descrição:  
+> Aqui podemos ver que a plataforma GitHub identifica quando alguma mudança no corpo da página foi feita mas ainda não foi efetuado o Commit, com isso exibe uma mensagem perguntando se desejamos realmente sair e perder quaisquer operações feitas.
 </div>
 </div>
 <div align="left">
