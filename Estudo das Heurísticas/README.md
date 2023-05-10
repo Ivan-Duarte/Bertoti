@@ -77,7 +77,7 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 3.1 - Botão de Cancelar</h2>
+    <h2>Img 3.2 - Botão de Cancelar</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
  
