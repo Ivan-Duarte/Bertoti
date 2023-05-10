@@ -203,7 +203,7 @@ Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal n
  <br>
   <div align="center">
     <h2>Img 10.0 - Ajuda em editor de texto</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/wordhelp.JPG">
   </div>
   
 > Descrição:  
