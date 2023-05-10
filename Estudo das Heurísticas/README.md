@@ -133,15 +133,15 @@ Nesta quinta Heurística como o nome já sugere iremos priorizar a prevenção d
 
 ---
 
-<h2>6ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>6ª Heurística de Nielsen - "Reconhecimento em vez de memorização"</h2>
+Nesta sexta Heurística notamos é mais simples compararmos informações do que lembrarmos delas. O exemplo que é passado pelo Grupo Nielsen Norman é de que é mais facil perguntar para o usuário: "Lisboa é a capital de Portugal ?" ao invez de perguntar "Qual a capital de Portugal ?", isso porque na primeira questão estamos utilizando o processo de comparação para verificar se a afirmação é correta, já no segundo o processo utilizado é o de lembrança, fazendo com que o usuário tenha que ter um esforço cognitivo maior para encontrar a resposta.
  <br>
   <div align="center">
-    <h2>Img 6.0</h2>
+    <h2>Img 6.0 - Categorias</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
   
-> Descrição:  
+> Um bom comparativo para reduzir o esforço cognitivo do usuário é o conceito "Localização", demonstrar para o usuário o local aonde ele se encontra. No site do Mercado Livre podemos observar a aba de "Categorias" que separa os produtos em nixos especificos, facilitando para o usuario encontrar o item procurado. 
 </div>
 </div>
 <div align="left">
