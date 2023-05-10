@@ -161,8 +161,8 @@ Nesta sétima Heurística entendemos que vão existir usuários com diferentes n
 
 ---
 
-<h2>8ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>8ª Heurística de Nielsen - "Design estético e minimalista"</h2>
+Nesta oitava Heurística o foco está em não poluir a visão do usuário com um design trasbordando de informações desnecessarias, a interface deve focar no conteudo essensial para o cliente final.
  <br>
   <div align="center">
     <h2>Img 8.0</h2>
