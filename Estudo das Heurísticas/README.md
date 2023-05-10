@@ -101,10 +101,10 @@ Nesta quarta Heurística precisamos ter em mente que o usuário não deve se per
 <div align="left">
   <div align="center">
     <h2>Img 4.1 - Consistência Externa</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/shopcard.gif">
   </div>
  
-> A consistência externa é que, segundo a Lei de Jakob "Pessoas passam mais tempo em outros sites do que no seu", ou seja, se existe um determinado padrão que é seguido por um setor, ao fazer diferente disto, estariamos obrigando o usuário a aprender algo novo, e isso quase sempre não é uma boa prática. 
+> A consistência externa é que, segundo a Lei de Jakob, "Pessoas passam mais tempo em outros sites do que no seu", ou seja, se existe um determinado padrão que é seguido por um setor, fazer diferente disto, seria obrigar o usuário a aprender algo novo, e isso quase sempre não é uma boa prática. 
 </div>
 <br>
 
