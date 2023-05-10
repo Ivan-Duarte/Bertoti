@@ -230,8 +230,6 @@ Com base neste estudo sobre as 10 heurísticas de Nielsen, conclui que são um c
 https://www.nngroup.com/articles/ten-usability-heuristics/
  
 https://lattes.cnpq.br/
-
-https://www.freebsd.org/copyright/daemon/
   
 https://alistamento.eb.mil.br/
   
