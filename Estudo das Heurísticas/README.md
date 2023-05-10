@@ -151,11 +151,11 @@ Nesta sexta Heurística notamos é mais simples compararmos informações do que
 Nesta sétima Heurística entendemos que vão existir usuários com diferentes níveis de conhecimento do sistema e em consequência usuários mais experientes, com isso é interessante que acrescentemos atalhos para estes usuários, melhorando assim sua afinidade com a aplicação/site e sua eficiência na execução de suas tarefas. Denominamos esses atalhos como "Aceleradores".
  <br>
   <div align="center">
-    <h2>Img 7.0</h2>
-    <img align="center" height="350" width="70%" src="">
+    <h2>Img 7.0 - Atalhos de teclado</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/teamsgif.gif">
   </div>
   
-> Descrição:  
+> Aqui notamos um bom exemplo de atalho, ao pressionar o botão "Ctrl" e a letra "C" nós utilizamos um "Acelerador" para copiar todo texto digitado, e assim ter a possibilidade de alteralo.
 </div>
 </div>
 <div align="left">
