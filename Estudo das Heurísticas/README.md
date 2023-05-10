@@ -87,15 +87,15 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
 
 ---
 
-<h2>4ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>4ª Heurística de Nielsen - "Consistência e padrões"</h2>
+Nesta quarta Heurística precisamos ter em mente que o usuário não deve se perguntar se diferentes palavras, situações ou ações tem o mesmo significado, o ideal é seguir convenções da plataforma ou do setor. Aqui podemos deferenciar dois dipos de Consistência, a interna e a externa.
  <br>
   <div align="center">
-    <h2>Img 4.0</h2>
+    <h2>Img 4.0 - Consistencia Interna</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
   
-> Descrição:  
+> A consistência interna tem como finalidade tornar o sistema aprendível e familiar para o usuário, 
 </div>
 </div>
 <div align="left">
