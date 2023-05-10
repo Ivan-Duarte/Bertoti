@@ -1,6 +1,6 @@
 # Betoti
 
-<h3>Repositorio destinado a atividades da aula de IHC (Interação humano computador)</h3>
+> Repositorio destinado a atividades da aula de IHC (Interação humano computador)
 
 Trabalho individual sobre 10 Heuristicas de Nielsen Norman Group<br>
-Trabalho a respeito do ChatGPT
+Trabalho Tema: "Como a inteligência Artificial pode ajudar a melhorar a interação Humana-Humana"
