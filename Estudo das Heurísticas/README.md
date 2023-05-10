@@ -143,21 +143,12 @@ Nesta sexta Heurística notamos é mais simples compararmos informações do que
   
 > Um bom comparativo para reduzir o esforço cognitivo do usuário é o conceito "Localização", demonstrar para o usuário o local aonde ele se encontra. No site do Mercado Livre podemos observar a aba de "Categorias" que separa os produtos em nichos especificos, facilitando para o usuario encontrar o item procurado ao invez de ter que lembrar do nome especifico.
 </div>
-</div>
-<div align="left">
-  <div align="center">
-    <h2>Img 6.1 - </h2>
-    <img align="center" height="350" width="70%" src="">
-  </div>
- 
-> Descrição:
-</div>
 <br>
 
 ---
 
-<h2>7ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>7ª Heurística de Nielsen - "Flexibilidade e eficiência de uso"</h2>
+Nesta sétima Heurística entendemos que vão existir usuários com diferentes níveis de conhecimento do sistema e em consequência usuários mais experientes, com isso é interessante que acrescentemos atalhos para estes usuários, melhorando assim sua afinidade com a aplicação/site e sua eficiência na execução de suas tarefas. Denominamos esses atalhos como "Aceleradores".
  <br>
   <div align="center">
     <h2>Img 7.0</h2>
