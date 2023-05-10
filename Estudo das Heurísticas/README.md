@@ -220,7 +220,8 @@ Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal n
 
 ---
 
-##Conclusão 
+## Conclusão
+Com base neste estudo sobre as 10 heurísticas de Nielsen, conclui que são um conjunto de diretrizes valiosas para o design de interfaces digitais e que visam melhorar a usabilidade e a experiência do usuário, além de serem amplamente reconhecidas como uma referência essencial para designers de interfaces digitais. Como estudante e desenvolvedor, é crucial para mim entender melhor como posso aplicar esses conceitos em meus próximos projetos seguindo as orientações que devem ser adaptadas e aplicadas de acordo com as necessidades e objetivos específicos do projeto.
  
  
 <h3> Links de sites relevantes para a pesquisa<h3>
