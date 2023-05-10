@@ -114,8 +114,8 @@ Nesta quarta Heurística precisamos ter em mente que o usuário não deve se per
 Nesta quinta Heurística como o nome já sugere iremos priorizar a prevenção de erros cometidos pelo usuário, para isso tratamos de dois tipos de erros: deslizes e enganos. Deslizes são erros inconscientes causados por desatenção, já os enganos são baseados em uma incompatibilidade entre o modelo mental do usuário e o design.
  <br>
   <div align="center">
-    <h2>Img 5.0</h2>
-    <img align="center" height="350" width="70%" src="">
+    <h2>Img 5.0 - Confirmação de Saída</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/github.JPG">
   </div>
   
 > Descrição:  
