@@ -188,11 +188,11 @@ Nesta nona Heurística é preciso solidificar três pontos chaves com relação 
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 9.1 - </h2>
-    <img align="center" height="350" width="70%" src="">
+    <h2>Img 9.1 - Sugestão para correção de erro</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/googlepesq.JPG"">
   </div>
  
-> Descrição:
+> Neste caso o Google identificou o input do usuário e verificou que não correspondia com algo presente em seu banco de dados, como não achou nenhum resultado similar o sistema sugeriu uma alternativa de pesquisa. Essa é uma forma de direcionar o usuário após um erro.
 </div>
 <br>
 
