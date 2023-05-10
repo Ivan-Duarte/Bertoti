@@ -92,10 +92,10 @@ Nesta quarta Heurística precisamos ter em mente que o usuário não deve se per
  <br>
   <div align="center">
     <h2>Img 4.0 - Consistencia Interna</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/twitch.gif">
   </div>
   
-> A consistência interna tem como finalidade tornar o sistema aprendível e familiar para o usuário, 
+> A consistência interna tem como finalidade tornar o sistema aprendível e familiar para o usuário, pode ser associada por exemplo a botões de "call-action" - ações no sistema. No site observado, podemos ver que abas tem a coloração inicial preta e ao passar do mouse ficam roxas, e os canais tem por padrão fundo branco ficando levemente acinzentado ao passar do mouse.
 </div>
 </div>
 <div align="left">
