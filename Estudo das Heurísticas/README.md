@@ -155,16 +155,7 @@ Nesta sétima Heurística entendemos que vão existir usuários com diferentes n
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/teamsgif.gif">
   </div>
   
-> Aqui notamos um bom exemplo de atalho, ao pressionar o botão "Ctrl" e a letra "C" nós utilizamos um "Acelerador" para copiar todo texto digitado, e assim ter a possibilidade de alteralo.
-</div>
-</div>
-<div align="left">
-  <div align="center">
-    <h2>Img 7.1 - </h2>
-    <img align="center" height="350" width="70%" src="">
-  </div>
- 
-> Descrição:
+> Aqui notamos um bom exemplo de atalho, ao pressionar o botão "Ctrl" e a letra "C" nós utilizamos um "Acelerador" para copiar todo texto digitado, e assim ter a possibilidade de altera-lo.
 </div>
 <br>
 
