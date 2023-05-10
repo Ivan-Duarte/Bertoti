@@ -35,12 +35,40 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
  <br>
   <div align="center">
     <h2>Img 1</h2>
-    <img align="center" height="165em" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
   
 > Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
 </div>
 <br>
+
+<div align="left">
+<h2>3ª Heurística de Nielsen - ""</h2>
+Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
+ <br>
+  <div align="center">
+    <h2>Img 1</h2>
+    <img align="center" height="350" width="70%" src="">
+  </div>
+  
+> Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
+</div>
+<br>
+
+<div align="left">
+<h2>4ª Heurística de Nielsen - ""</h2>
+Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
+ <br>
+  <div align="center">
+    <h2>Img 1</h2>
+    <img align="center" height="350" width="70%" src="">
+  </div>
+  
+> Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
+</div>
+<br>
+
+
 <h3> Links de sites relevantes <h3>
   
 
