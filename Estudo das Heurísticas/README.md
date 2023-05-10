@@ -36,7 +36,7 @@ Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de 
 Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
  <br>
   <div align="center">
-    <h2>Img 2.0</h2>
+    <h2>Img 2.0 - Alistamento Militar</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
   
@@ -56,23 +56,46 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
 ---
 
 <h2>3ª Heurística de Nielsen - ""</h2>
-Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
+Nesta ... Heurística ...
  <br>
   <div align="center">
     <h2>Img 3.0</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
   
-> Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
+> Descrição:  
 </div>
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 3.1</h2>
+    <h2>Img 3.1 - </h2>
     <img align="center" height="350" width="70%" src="">
   </div>
  
-> O site que utilizei para converter videos em GIFs disponibiliza uma barra de status de conversão, permitindo o usuário saber visualmente a etapa do processo de conversão além de dicas visuais como o logo do site, que fica em movimento enquanto houver conexão com a rede.
+> Descrição:
+</div>
+<br>
+
+---
+
+<h2>4ª Heurística de Nielsen - ""</h2>
+Nesta ... Heurística ...
+ <br>
+  <div align="center">
+    <h2>Img 4.0</h2>
+    <img align="center" height="350" width="70%" src="">
+  </div>
+  
+> Descrição:  
+</div>
+</div>
+<div align="left">
+  <div align="center">
+    <h2>Img 4.1 - </h2>
+    <img align="center" height="350" width="70%" src="">
+  </div>
+ 
+> Descrição:
 </div>
 <br>
 
