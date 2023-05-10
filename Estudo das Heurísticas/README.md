@@ -68,8 +68,8 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 3.1 - </h2>
-    <img align="center" height="350" width="70%" src="">
+    <h2>Img 3.1 - Botão de Cancelar</h2>
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/lattes.JPG">
   </div>
  
 > Descrição:
