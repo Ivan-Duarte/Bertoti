@@ -141,7 +141,7 @@ Nesta sexta Heurística notamos é mais simples compararmos informações do que
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/mercadolivre.gif">
   </div>
   
-> Um bom comparativo para reduzir o esforço cognitivo do usuário é o conceito "Localização", demonstrar para o usuário o local aonde ele se encontra. No site do Mercado Livre podemos observar a aba de "Categorias" que separa os produtos em nichos especificos, facilitando para o usuario encontrar o item procurado ao invez de ter que lembrar do nome especifico do produto.
+> Um bom comparativo para reduzir o esforço cognitivo do usuário é o conceito "Localização", demonstrar para o usuário o local aonde ele se encontra. No site do Mercado Livre podemos observar a aba de "Categorias" que separa os produtos em nichos especificos, facilitando para o usuario encontrar o item procurado ao invez de ter que lembrar do nome especifico.
 </div>
 </div>
 <div align="left">
