@@ -104,7 +104,7 @@ Nesta quarta Heurística precisamos ter em mente que o usuário não deve se per
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/shopcard.gif">
   </div>
  
-> A consistência externa é que, segundo a Lei de Jakob, "Pessoas passam mais tempo em outros sites do que no seu", ou seja, se existe um determinado padrão que é seguido por um setor, fazer diferente disto, seria obrigar o usuário a aprender algo novo, e isso quase sempre não é uma boa prática. 
+> A consistência externa é que, segundo a Lei de Jakob, "Pessoas passam mais tempo em outros sites do que no seu", ou seja, se existe um determinado padrão que é seguido por um setor, fazer diferente disto, seria obrigar o usuário a aprender algo novo, e isso quase sempre não é uma boa prática. O exemplo que temos aqui é o "Carrinho de Compras" tipicamente associado ao total de itens esperando a confirmação de compra pelo usuário.
 </div>
 <br>
 
