@@ -169,7 +169,7 @@ Nesta oitava Heurística o foco está em não poluir a visão do usuário com um
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/cnn.gif">
   </div>
   
-> Descrição:  
+> Aqui no site da CNN-Brasil temos um exemplo de um design que não é plano e nem monocromático, as notícias são separadas em "Cards" que ao clique direcionam para uma nova página com mais informações sobre a notícia.
 </div>
 <br>
 
