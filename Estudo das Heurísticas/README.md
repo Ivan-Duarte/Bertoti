@@ -20,54 +20,63 @@ Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de 
 > Sempre que o usuário escreve algo na barra de pesquisa, quase que instantaneamente o Google disponibiliza diversas sugestões de acordo com o que está sendo escrito, justamente para informar o usuário que sua busca esta sendo registrada pelo navegador.
 </div>
 <div align="left">
- <br>
   <div align="center">
-    <h2>Img 1.1</h2>
+    <h2>Img 1.1 - Gyphy</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/statusgifmaker.gif">
   </div>
-  
+ 
 > O site que utilizei para converter videos em GIFs disponibiliza uma barra de status de conversão, permitindo o usuário saber visualmente a etapa do processo de conversão além de dicas visuais como o logo do site, que fica em movimento enquanto houver conexão com a rede.
 </div>
 <br>
 <div align="left">
+
+---
+ 
 <h2>2ª Heurística de Nielsen - "Correspondência entre o sistema e o mundo real"</h2>
 Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
  <br>
   <div align="center">
-    <h2>Img 1</h2>
+    <h2>Img 2.0</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
   
 > Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
 </div>
+</div>
+<div align="left">
+  <div align="center">
+    <h2>Img 2.1</h2>
+    <img align="center" height="350" width="70%" src="">
+  </div>
+ 
+> O site que utilizei para converter videos em GIFs disponibiliza uma barra de status de conversão, permitindo o usuário saber visualmente a etapa do processo de conversão além de dicas visuais como o logo do site, que fica em movimento enquanto houver conexão com a rede.
+</div>
 <br>
 
-<div align="left">
+---
+
 <h2>3ª Heurística de Nielsen - ""</h2>
 Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
  <br>
   <div align="center">
-    <h2>Img 1</h2>
+    <h2>Img 3.0</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
   
 > Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
 </div>
-<br>
-
+</div>
 <div align="left">
-<h2>4ª Heurística de Nielsen - ""</h2>
-Nesta segunda Heurística devemos observar que todo o sistema deve falar a linguagem dos seus usuários, isto é, utilizar palavras e conceitos familiares para o cliente. Nesta etapa um item importante a se destacar é de que nunca devemos assumir como desenvolvedores que o nosso conhecimento de conceitos ou terminologias será igual para o usuário final.
- <br>
   <div align="center">
-    <h2>Img 1</h2>
+    <h2>Img 3.1</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
-  
-> Descrição:  Para tratarmos da segunda Heurística de Nielsen precisamos entender o conceito de desing skeumorfico, trata-se de um desing visual que imita objetos do mundo real para representar funções e recursos em interfaces digitais.
+ 
+> O site que utilizei para converter videos em GIFs disponibiliza uma barra de status de conversão, permitindo o usuário saber visualmente a etapa do processo de conversão além de dicas visuais como o logo do site, que fica em movimento enquanto houver conexão com a rede.
 </div>
 <br>
 
+---
 
 <h3> Links de sites relevantes <h3>
   
