@@ -78,7 +78,7 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
 <div align="left">
   <div align="center">
     <h2>Img 3.2 - Lixeira de E-mails</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/lixeiradeemails.JPG">
   </div>
  
 > Um outro exemplo que podemos utilizar como referência da 3ª Heurística é o sistema de lixeira das aplicações de Email, aonde ao deletar um email, o mesmo fica armazenado por 30 dias na lixeira até ser excluido pelo sistema, ou até o usuario confirmar sua exclusão na lixeira.
