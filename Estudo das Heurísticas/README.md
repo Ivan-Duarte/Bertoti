@@ -176,7 +176,7 @@ Nesta oitava Heurística o foco está em não poluir a visão do usuário com um
 ---
 
 <h2>9ª Heurística de Nielsen - "Reconhecer, diagnosticar e recuperar-se de erros"</h2>
-Nesta nona Heurística é preciso solidificar três pontos chaves com relação a erros: 1º Informar os usuários quando um erro ocorreu, pode ser feito com mensagens de erros; 2º Explicar para os usuários o que aconteceu de errado, utilizando uma linguagem simples e de facil entendimento sem códigos de erros; 3º Oferecer uma maneira de resolver o problema.
+Nesta nona Heurística é preciso solidificar três pontos chaves com relação a erros: 1º Informar os usuários quando um erro ocorreu, pode ser feito com mensagens de erros; 2º Explicar para os usuários o que aconteceu de errado, utilizando uma linguagem simples e de facil entendimento sem códigos de erros; 3º Oferecer uma maneira de resolver o problema, como uma opção de retroceder.
  <br>
   <div align="center">
     <h2>Img 9.0 - Mensagem de erro</h2>
@@ -198,11 +198,11 @@ Nesta nona Heurística é preciso solidificar três pontos chaves com relação 
 
 ---
 
-<h2>10ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>10ª Heurística de Nielsen - "Ajuda e documentação"</h2>
+Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal não deveria necessitar de documentação para que o usuário conseguisse utilizá-lo mas também devemos nos atentar a curva de aprendizado dos usuários e as dificuldades que cada individuo pode ter ao utilizar nosso sistema, para isso é importante desenvolver uma documentação sólida baseada nas principais necessidades dos usuários para concluirem suas taferas.
  <br>
   <div align="center">
-    <h2>Img 10.0</h2>
+    <h2>Img 10.0 - Ajuda em editor de texto</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
   
@@ -211,7 +211,7 @@ Nesta ... Heurística ...
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 10.1 - </h2>
+    <h2>Img 10.1 - Documentação de linguagens de Programação</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
  
