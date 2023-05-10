@@ -206,13 +206,13 @@ Nesta décima Heurística entramos em uma controvérsia afinal o sistema ideal n
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/wordhelp.JPG">
   </div>
   
-> Descrição:  
+> Nesta imagem podemos ver o editor de texto da Microsoft "Word",   
 </div>
 </div>
 <div align="left">
   <div align="center">
     <h2>Img 10.1 - Documentação de linguagens de Programação</h2>
-    <img align="center" height="350" width="70%" src="">
+    <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/javadoc.JPG">
   </div>
  
 > Descrição:
