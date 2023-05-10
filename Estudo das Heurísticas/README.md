@@ -175,11 +175,11 @@ Nesta oitava Heurística o foco está em não poluir a visão do usuário com um
 
 ---
 
-<h2>9ª Heurística de Nielsen - ""</h2>
-Nesta ... Heurística ...
+<h2>9ª Heurística de Nielsen - "Reconhecer, diagnosticar e recuperar-se de erros"</h2>
+Nesta nona Heurística é preciso solidificar três pontos chaves com relação a erros: 1º Informar os usuários quando um erro ocorreu, pode ser feito com mensagens de erros; 2º
  <br>
   <div align="center">
-    <h2>Img 9.0</h2>
+    <h2>Img 9.0 - Mensagem de erro</h2>
     <img align="center" height="350" width="70%" src="">
   </div>
   
