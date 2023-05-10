@@ -13,7 +13,7 @@
 Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de forma que, a principal caracteristica dessa Heurística é a de dar confiabilidade para o Usuário fazendo com que ele tenha conhecimento de que suas ações no site/aplicação foram reconhecidas pelo sistema.
  <br>
   <div align="center">
-    <h2>Img 1.0 - Google Maps</h2>
+    <h2>Img 1.0 - Alterações em Tempo Real</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/gifgoogle.gif">
   </div>
   
@@ -21,7 +21,7 @@ Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de 
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 1.1 - Gyphy</h2>
+    <h2>Img 1.1 - Status de Progresso</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/statusgifmaker.gif">
   </div>
  
@@ -45,7 +45,7 @@ Nesta segunda Heurística devemos observar que todo o sistema deve falar a lingu
 </div>
 <div align="left">
   <div align="center">
-    <h2>Img 2.1 - Alistamento Militar</h2>
+    <h2>Img 2.1 - Design Simplificado</h2>
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/ebmil.JPG">
   </div>
  
