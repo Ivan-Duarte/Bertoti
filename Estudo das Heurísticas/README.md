@@ -72,7 +72,7 @@ Nesta terceira Heurística o controle do usuário e sua liberdade está associad
     <img align="center" height="350" width="70%" src="https://github.com/Ivan-Duarte/Betoti/blob/main/Estudo%20das%20Heur%C3%ADsticas/prints/lattes.JPG">
   </div>
  
-> Aqui temos um exemplo de um formulário, uma pagina destinada para obter informações inseridas pelo usuário. Seguindo a 3ª Heuristica o usuário precisa ter a opção de "Sair/Cancelar" esta ação de formulario sem que tenha nenhum tipo de "punição", como por exemplo, ao cancelar o cadastro de um curriculo ele não conseguiria retornar a página inicial, isso seria um erro, ele deveria conseguir retornar automáticamente como acontece na plataforma.
+> Aqui temos um exemplo de um formulário, uma pagina destinada para obter informações inseridas pelo usuário. Seguindo a 3ª Heurística o usuário precisa ter a opção de "Sair/Cancelar" para esta ação de formulário sem que tenha nenhum tipo de "punição", como por exemplo, ao cancelar o cadastro de um curriculo ele não conseguiria retornar a página inicial, isso seria um erro, ele deveria conseguir retornar automáticamente como acontece na plataforma.
 </div>
 <br>
 
