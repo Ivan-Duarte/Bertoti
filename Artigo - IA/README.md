@@ -1,1 +1,3 @@
 # Projeto em Progresso ...
+
+"Como a inteligencia artificial pode ajudar na interação Humano Humano ?"
