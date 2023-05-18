@@ -17,4 +17,4 @@ Automação de tarefas: A IA pode assumir tarefas repetitivas e mundanas, permit
 Aprendizado de máquina em tempo real: A IA pode aprender com as interações humanas em tempo real e adaptar suas respostas ou comportamento com base nesse aprendizado. Isso pode levar a interações mais eficientes e personalizadas ao longo do tempo.
 
 O objetivo da inteligência artificial (IA) é criar sistemas capazes de realizar tarefas que normalmente requerem inteligência humana. Esses sistemas são projetados para aprender, raciocinar, perceber e interagir com o ambiente de maneiras semelhantes aos seres humanos.
-
+O objetivo principal da IA é melhorar a eficiência e a precisão de várias tarefas, automatizando processos, tomando decisões informadas e solucionando problemas complexos. A IA busca aprimorar a capacidade de máquinas e sistemas computacionais em entender, interpretar e utilizar informações de forma inteligente.
