@@ -21,3 +21,5 @@ O objetivo da inteligência artificial (IA) é criar sistemas capazes de realiza
 O objetivo principal da IA é melhorar a eficiência e a precisão de várias tarefas, automatizando processos, tomando decisões informadas e solucionando problemas complexos. A IA busca aprimorar a capacidade de máquinas e sistemas computacionais em entender, interpretar e utilizar informações de forma inteligente.
 
 Além disso, a IA tem o objetivo de auxiliar e melhorar a experiência humana em várias áreas, como saúde, educação, transporte, comunicação, entretenimento e muito mais. Através do uso da IA, espera-se alcançar avanços significativos em termos de produtividade, eficiência, tomada de decisões e qualidade de vida.
+
+Os seres humanos são falíveis e, da mesma forma, a inteligência artificial também pode apresentar falhas. A IA é projetada com base em algoritmos e modelos que são criados e treinados com base em dados existentes. Portanto, se os dados utilizados forem tendenciosos, incompletos ou imprecisos, a IA pode reproduzir essas limitações e apresentar resultados falhos.
