@@ -8,3 +8,5 @@ Processamento de linguagem natural: A IA pode ser usada para melhorar a comunica
 
 Assistência em tempo real: Os sistemas de IA podem ser usados para fornecer assistência em tempo real durante interações humanas. Por exemplo, chatbots podem ser treinados para responder a perguntas comuns e fornecer informações relevantes. Isso pode ajudar a reduzir a carga de trabalho dos profissionais e melhorar a experiência do usuário.
 
+Personalização da experiência: Com base nos dados coletados sobre as interações passadas, a IA pode ajudar a personalizar a experiência de cada indivíduo. Por exemplo, recomendações personalizadas podem ser feitas com base nos interesses e preferências do usuário, facilitando a descoberta de informações relevantes ou o encontro de pessoas com interesses semelhantes.
+
