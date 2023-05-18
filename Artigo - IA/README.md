@@ -10,7 +10,7 @@ A inteligência artificial (IA) pode desempenhar um papel importante na facilita
 
 3 - Personalização da experiência: Com base nos dados coletados sobre as interações passadas, a IA pode ajudar a personalizar a experiência de cada indivíduo. Por exemplo, recomendações personalizadas podem ser feitas com base nos interesses e preferências do usuário, facilitando a descoberta de informações relevantes ou o encontro de pessoas com interesses semelhantes.
 
-Análise de sentimentos: A IA pode ser usada para analisar os sentimentos e emoções expressos em mensagens de texto, áudio ou vídeo. Isso pode ser útil para entender o tom de uma conversa e identificar sinais não verbais. A análise de sentimentos também pode ajudar a identificar necessidades ou problemas específicos dos usuários, permitindo uma resposta mais adequada e empática.
+4 - Análise de sentimentos: A IA pode ser usada para analisar os sentimentos e emoções expressos em mensagens de texto, áudio ou vídeo. Isso pode ser útil para entender o tom de uma conversa e identificar sinais não verbais. A análise de sentimentos também pode ajudar a identificar necessidades ou problemas específicos dos usuários, permitindo uma resposta mais adequada e empática.
 
 Automação de tarefas: A IA pode assumir tarefas repetitivas e mundanas, permitindo que os humanos se concentrem em interações mais significativas. Por exemplo, o uso de chatbots para responder a perguntas comuns pode liberar tempo para os profissionais se envolverem em interações mais complexas e envolventes.
 
