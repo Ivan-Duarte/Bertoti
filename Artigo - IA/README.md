@@ -23,3 +23,5 @@ O objetivo principal da IA é melhorar a eficiência e a precisão de várias ta
 Além disso, a IA tem o objetivo de auxiliar e melhorar a experiência humana em várias áreas, como saúde, educação, transporte, comunicação, entretenimento e muito mais. Através do uso da IA, espera-se alcançar avanços significativos em termos de produtividade, eficiência, tomada de decisões e qualidade de vida.
 
 Os seres humanos são falíveis e, da mesma forma, a inteligência artificial também pode apresentar falhas. A IA é projetada com base em algoritmos e modelos que são criados e treinados com base em dados existentes. Portanto, se os dados utilizados forem tendenciosos, incompletos ou imprecisos, a IA pode reproduzir essas limitações e apresentar resultados falhos.
+
+Além disso, a IA pode enfrentar desafios em situações novas, que não foram abordadas durante o treinamento. Isso ocorre porque a IA é limitada aos dados e ao conhecimento em que foi treinada e pode ter dificuldades em lidar com cenários imprevistos ou informações contraditórias.
