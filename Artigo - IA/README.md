@@ -16,7 +16,7 @@ A inteligência artificial (IA) pode desempenhar um papel importante na facilita
 
 - 5 - Automação de tarefas: A IA pode assumir tarefas repetitivas e mundanas, permitindo que os humanos se concentrem em interações mais significativas. Por exemplo, o uso de chatbots para responder a perguntas comuns pode liberar tempo para os profissionais se envolverem em interações mais complexas e envolventes.
 
-6 - Aprendizado de máquina em tempo real: A IA pode aprender com as interações humanas em tempo real e adaptar suas respostas ou comportamento com base nesse aprendizado. Isso pode levar a interações mais eficientes e personalizadas ao longo do tempo.
+- 6 - Aprendizado de máquina em tempo real: A IA pode aprender com as interações humanas em tempo real e adaptar suas respostas ou comportamento com base nesse aprendizado. Isso pode levar a interações mais eficientes e personalizadas ao longo do tempo.
 
 ---
 
