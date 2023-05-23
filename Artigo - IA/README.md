@@ -10,7 +10,7 @@ A inteligência artificial (IA) pode desempenhar um papel importante na facilita
 
 2 - Assistência em tempo real: Os sistemas de IA podem ser usados para fornecer assistência em tempo real durante interações humanas. Por exemplo, chatbots podem ser treinados para responder a perguntas comuns e fornecer informações relevantes. Isso pode ajudar a reduzir a carga de trabalho dos profissionais e melhorar a experiência do usuário.
 
-- 3 - Personalização da experiência: Com base nos dados coletados sobre as interações passadas, a IA pode ajudar a personalizar a experiência de cada indivíduo. Por exemplo, recomendações personalizadas podem ser feitas com base nos interesses e preferências do usuário, facilitando a descoberta de informações relevantes ou o encontro de pessoas com interesses semelhantes.
+3 - Personalização da experiência: Com base nos dados coletados sobre as interações passadas, a IA pode ajudar a personalizar a experiência de cada indivíduo. Por exemplo, recomendações personalizadas podem ser feitas com base nos interesses e preferências do usuário, facilitando a descoberta de informações relevantes ou o encontro de pessoas com interesses semelhantes.
 
 - 4 - Análise de sentimentos: A IA pode ser usada para analisar os sentimentos e emoções expressos em mensagens de texto, áudio ou vídeo. Isso pode ser útil para entender o tom de uma conversa e identificar sinais não verbais. A análise de sentimentos também pode ajudar a identificar necessidades ou problemas específicos dos usuários, permitindo uma resposta mais adequada e empática.
 
