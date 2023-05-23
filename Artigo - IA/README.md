@@ -24,7 +24,7 @@ A inteligência artificial (IA) pode desempenhar um papel importante na facilita
 
 - O objetivo da inteligência artificial (IA) é criar sistemas capazes de realizar tarefas que normalmente requerem inteligência humana. Esses sistemas são projetados para aprender, raciocinar, perceber e interagir com o ambiente de maneiras semelhantes aos seres humanos.
 
-O objetivo principal da IA é melhorar a eficiência e a precisão de várias tarefas, automatizando processos, tomando decisões informadas e solucionando problemas complexos. A IA busca aprimorar a capacidade de máquinas e sistemas computacionais em entender, interpretar e utilizar informações de forma inteligente.
+- O objetivo principal da IA é melhorar a eficiência e a precisão de várias tarefas, automatizando processos, tomando decisões informadas e solucionando problemas complexos. A IA busca aprimorar a capacidade de máquinas e sistemas computacionais em entender, interpretar e utilizar informações de forma inteligente.
 
 Além disso, a IA tem o objetivo de auxiliar e melhorar a experiência humana em várias áreas, como saúde, educação, transporte, comunicação, entretenimento e muito mais. Através do uso da IA, espera-se alcançar avanços significativos em termos de produtividade, eficiência, tomada de decisões e qualidade de vida.
 
