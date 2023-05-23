@@ -30,4 +30,4 @@ A inteligência artificial (IA) pode desempenhar um papel importante na facilita
 
 - Os seres humanos são falíveis e, da mesma forma, a inteligência artificial também pode apresentar falhas. A IA é projetada com base em algoritmos e modelos que são criados e treinados com base em dados existentes. Portanto, se os dados utilizados forem tendenciosos, incompletos ou imprecisos, a IA pode reproduzir essas limitações e apresentar resultados falhos.
 
-Além disso, a IA pode enfrentar desafios em situações novas, que não foram abordadas durante o treinamento. Isso ocorre porque a IA é limitada aos dados e ao conhecimento em que foi treinada e pode ter dificuldades em lidar com cenários imprevistos ou informações contraditórias.
+- Além disso, a IA pode enfrentar desafios em situações novas, que não foram abordadas durante o treinamento. Isso ocorre porque a IA é limitada aos dados e ao conhecimento em que foi treinada e pode ter dificuldades em lidar com cenários imprevistos ou informações contraditórias.
