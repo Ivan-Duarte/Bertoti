@@ -4,6 +4,8 @@
 
 A inteligência artificial (IA) pode desempenhar um papel importante na facilitação da interação humana-a-humana de várias maneiras. Aqui estão algumas maneiras pelas quais a IA pode ser útil nesse contexto:
 
+---
+
 <h3>Tópicos de Interesse</h3>
 
 1 - Processamento de linguagem natural: A IA pode ser usada para melhorar a comunicação entre humanos, oferecendo recursos avançados de processamento de linguagem natural. Isso pode incluir tradução automática, correção gramatical, resumo de texto e até mesmo a detecção de emoções nas mensagens. Essas tecnologias podem ajudar a superar barreiras linguísticas e melhorar a compreensão mútua.
@@ -17,6 +19,8 @@ A inteligência artificial (IA) pode desempenhar um papel importante na facilita
 5 - Automação de tarefas: A IA pode assumir tarefas repetitivas e mundanas, permitindo que os humanos se concentrem em interações mais significativas. Por exemplo, o uso de chatbots para responder a perguntas comuns pode liberar tempo para os profissionais se envolverem em interações mais complexas e envolventes.
 
 6 - Aprendizado de máquina em tempo real: A IA pode aprender com as interações humanas em tempo real e adaptar suas respostas ou comportamento com base nesse aprendizado. Isso pode levar a interações mais eficientes e personalizadas ao longo do tempo.
+
+---
 
 <h3>O Objetivo</h3>
 
