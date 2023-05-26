@@ -10,7 +10,7 @@
 
 <div align="left">
 <h2>1ª Heurística de Nielsen - "Visibilidade do Status do Sistema"</h2>
-Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de forma que, a principal caracteristica dessa Heurística é a de dar confiabilidade para o Usuário fazendo com que ele tenha conhecimento de que suas ações no site/aplicação foram reconhecidas pelo sistema.
+Nesta primeira Heurística o conceito de "Conhecimento é Poder" é abordado de forma que, a principal caracteristica dessa Heurística é a de dar confiabilidade para o Usuário fazendo com que ele tenha conhecimento de que suas ações no site/aplicação foram reconhecidas pelo sistema
  <br>
   <div align="center">
     <h2>Img 1.0 - Alterações em Tempo Real</h2>
