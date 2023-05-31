@@ -23,6 +23,10 @@ Existem várias abordagens e técnicas utilizadas na IA. O aprendizado de máqui
 Outro exemplo de aplicação da inteligência artificial são os chatbots, aplicações que podem ser programadas com uma base de dados limitada, ou então treinados como um modelo de linguagem ampliando sua base de informações que fornecem soluções para diversos tipos de problemas. Um dos chatbots mais conhecidos atualmente é o ChatGPT, que é capaz de gerar respostas complexas em poucos segundos, como é explorado pelo autor Reid Hoffman em “Impromptu – Amplifying Our Humanity Through AI” [1], neste livro Reid Hoffman aborda temas do cotidiano e complexos debates éticos e morais, justamente para explorar o potencial da ferramenta conhecida com GPT-4.
 Os algoritmos de inteligência artificial (IA) são usados em uma variedade de aplicações online, desde recomendação de produtos e publicidade direcionada até previsão de taxas de empréstimo e seguro. No entanto, à medida que a tomada de decisão baseada em IA afeta diretamente a vida das pessoas, a responsabilidade e a imparcialidade dos algoritmos avançados de IA estão sendo questionadas. Nos últimos anos, a necessidade de transparência algorítmica está recebendo mais atenção para possibilitar sistemas de tomada de decisão baseados em IA responsáveis. Para isso, técnicas de IA Explicável (XAI) foram introduzidas para adicionar transparência a algoritmos de aprendizado de máquina em caixa-preta facilitando sua interpretação. No domínio das redes sociais, os algoritmos de feed de notícias e busca funcionam de forma semelhante aos algoritmos de tomada de decisão, pois os usuários são expostos a conteúdo selecionado algoritmicamente. Confiar totalmente em notícias curadas algoritmicamente poderia levar potencialmente à propagação em larga escala de informações falsas e fabricadas [4]
 
+<h3>2.1 Algoritimos PLN</h3>
+
+
+
 <h3>5. REFERÊNCIAS</h3>
 
 [1]	REID HOFFMAN. Impromptu – Amplifying Our Humanity Through AI – Dallepedia LLC, 2023.
