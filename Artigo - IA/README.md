@@ -27,7 +27,7 @@ Os algoritmos de inteligência artificial (IA) são usados em uma variedade de a
 
 [1]	REID HOFFMAN. Impromptu – Amplifying Our Humanity Through AI – Dallepedia LLC, 2023.
 
-[2]	REID HOFFMAN. Impromptu – Amplifying Our Humanity Through AI – Dallepedia LLC, 2023.
+[2]	DANIEL JURAFSKY and JAMES H. MARTIN. Speech and Language Processing – Na Introduction to Natural Language Processing, Computation Linguistisc, and Speech Recognition – PEARSON Prenctice Hall, 2008
 
 [3]	Sajjad Ahmed, Knut Hinkelmann e Flavio Corradini, “Combining Machine Learning with Knowledge Engineering to detect Fake News in Social Networks-a survey” Arxiv, v1, 2022 (p 1-2).
 
