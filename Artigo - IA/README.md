@@ -1,8 +1,8 @@
 # COMO A INTELIGÊNCIA ARTIFICIAL PODE AJUDAR OS HUMANOS A APRENDER
 
+I.G.R.O. Duarte
+Faculdade Tecnológica do Estado de São Paulo/Unidade São José dos Campos/Análise e Desenvolvimento de Sistemas
 
-
----
 
 <h3>INTRODUÇÃO</h3>
 
