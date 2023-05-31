@@ -6,7 +6,7 @@
 </div>
 
 <h3>RESUMO</h3>
-Neste trabalho é abordado
+Este artigo aborda a importância e o potencial da inteligência artificial (IA) no combate à desinformação. A disseminação rápida e generalizada de informações falsas e enganosas tem se tornado um desafio crítico em nossas sociedades contemporâneas. Com base em uma revisão bibliográfica dos artigos citados, este estudo investiga o papel da IA no combate à desinformação e a utilização de suas técnicas para aumentar a segurança na navegação da internet.
 
 <h3>1. INTRODUÇÃO</h3>
 
@@ -36,6 +36,9 @@ As redes neurais e o deep learning baseiam-se em conceitos e algoritmos inspirad
 Uma rede neural é uma estrutura composta por unidades interconectadas chamadas de neurônios artificiais. Cada neurônio recebe entradas ponderadas, realiza um cálculo e produz uma saída que é transmitida para outros neurônios na rede. Essas conexões são organizadas em camadas, sendo a primeira a camada de entrada, a última a camada de saída e as intermediárias conhecidas como camadas ocultas. O treinamento de uma rede neural é um processo crucial, em que os pesos das conexões entre os neurônios são ajustados com base em dados de treinamento. Esse ajuste é realizado através de algoritmos de aprendizado, utilizam técnicas de otimização para minimizar o erro entre as saídas da rede e os valores desejados. À medida que a rede é exposta a mais dados de treinamento, ela se torna mais capaz de generalizar e tomar decisões corretas em novos casos.
 Já o  deep learning é uma abordagem de aprendizado de máquina que utiliza redes neurais profundas, compostas por várias camadas ocultas. Essas redes têm a capacidade de aprender representações hierárquicas dos dados, permitindo a extração de características complexas em diferentes níveis de abstração. Dessa forma, o deep learning é capaz de lidar com problemas de alta dimensionalidade e encontrar padrões sutis em conjuntos de dados massivos.
 Uma das principais vantagens das redes neurais e do deep learning é a capacidade de lidar com dados não estruturados, como imagens, áudio e texto. São amplamente utilizadas para realizar tarefas como reconhecimento de objetos, segmentação de imagens e detecção de padrões. Já em processamento de linguagem natural (Seção 2.1), as redes neurais recorrentes e os modelos de transformers têm se destacado em tarefas como tradução automática, resumo de texto e geração de texto. No entanto, é importante destacar que o treinamento de redes neurais profundas requer uma grande quantidade de dados rotulados e um poder computacional significativo. Além disso, a interpretabilidade dos modelos de deep learning ainda é um desafio, pois eles tendem a ser caixas-pretas, dificultando a compreensão dos processos internos que levam a uma determinada decisão. A utilização das Redes Neurais e do Deep Learning associados aos Métodos de Checagem (Seção 3), podem ser uma alternativa para identificar de forma mais precisa informações falsas ou enganosas.
+
+<h3>3. MÉTODOS DE CHECAGEM</h3>
+
 
 
 <h3>5. REFERÊNCIAS</h3>
