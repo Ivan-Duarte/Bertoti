@@ -5,6 +5,11 @@
  Faculdade Tecnológica do Estado de São Paulo/Unidade São José dos Campos/Análise e Desenvolvimento de Sistemas
 </div>
 
+<div align="center">
+  Trabalho apresentado à disciplina de Interação Humano Computador<br>do Curso de Análise e Desenvolvimento de Sistemas<br>da Faculdade de Tecnologia de São José dos Campos.<br>
+  Orientador: Prof: Giuliano Araujo Bertoti 
+</div>
+
 <h3>RESUMO</h3>
 Este artigo aborda a importância e o potencial da inteligência artificial (IA) no combate à desinformação. A disseminação rápida e generalizada de informações falsas e enganosas tem se tornado um desafio crítico em nossas sociedades contemporâneas. Com base em uma revisão bibliográfica dos artigos citados, este estudo investiga o papel da IA no combate à desinformação e a utilização de suas técnicas para aumentar a segurança na navegação da internet.
 <br><br>
