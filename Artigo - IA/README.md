@@ -47,6 +47,9 @@ Além disso, a verificação do contexto em que a informação é apresentada e 
 Para combater a disseminação de notícias falsas em redes sociais, são necessárias abordagens que considerem tanto o comportamento das entidades envolvidas quanto os aspectos sociais, combinando conhecimento e dados. É possível detectar notícias falsas com base em fatos conhecidos, como tempo, localização, qualidade e postura de outras pessoas. A medição dessas semelhanças pode ajudar a avaliar a qualidade das notícias.
 
 
+<h4>4. CONCLUSÃO</h4>
+
+
 <h3>5. REFERÊNCIAS</h3>
 
 [1]	REID HOFFMAN. Impromptu – Amplifying Our Humanity Through AI – Dallepedia LLC, 2023.
