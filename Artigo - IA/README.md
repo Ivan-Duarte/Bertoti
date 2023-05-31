@@ -61,11 +61,15 @@ Dessa forma, a inteligência artificial oferece um arsenal de ferramentas e abor
 
 [1]	REID HOFFMAN. Impromptu – Amplifying Our Humanity Through AI – Dallepedia LLC, 2023.
 
-[2]	DANIEL JURAFSKY and JAMES H. MARTIN. Speech and Language Processing – Na Introduction to Natural Language Processing, Computation Linguistisc, and Speech Recognition – PEARSON Prenctice Hall, 2008
+[2]	DANIEL JURAFSKY and JAMES H. MARTIN. Speech and Language Processing – Introduction to Natural Language Processing, Computation Linguistisc, and Speech Recognition – PEARSON Prenctice Hall, 2008
 
-[3]	Sajjad Ahmed, Knut Hinkelmann e Flavio Corradini, “Combining Machine Learning with Knowledge Engineering to detect Fake News in Social Networks-a survey” Arxiv, v1, 2022 (p 1-2).
+[3]	Sajjad Ahmed, Knut Hinkelmann e Flavio Corradini, “Combining Machine Learning with Knowledge Engineering to detect Fake News in Social Networks-a survey” Arxiv, v1, 2022 (p 1-5).
 
 [4]	Sina Mohseni, Fan Yang e Shiva Pentyala, Mengnan Du, Yi Liu, Nic Lupfer, Xia Hu, Shuiwang Ji e Eric Ragan “Machine Learning Explanations to Prevent Overtrust in Fake News Detection” Arxiv, v2, 2020 (p 1-2).
+
+[5] Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. “Detection and resolution of rumours in social media: A survey”. arXiv, 2017.
+
+
 
 
 
