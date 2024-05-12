@@ -8,9 +8,9 @@ package strategy;
  *
  * @author Ivan
  */
-public class HighBudgetStrategy implements UtilityStrategy {
+public class FullBuyBudgetStrategy implements UtilityStrategy {
     @Override
     public void execute() {
-        System.out.println("Compra: 2x Smoke, 2x Flashbang, 1x Molotov");
+        System.out.println("Compra tudo que tem direito!!!");
     }
 }

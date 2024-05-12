@@ -9,15 +9,15 @@ package StrategyPatternCode;
  *
  * @author Ivan
  */
-import strategy.HighBudgetStrategy;
-import strategy.LowBudgetStrategy;
-
 public class StrategyPattern {
     public static void main(String[] args) {
-        PlayerUtilityContext context = new PlayerUtilityContext(new HighBudgetStrategy());
+        PlayerUtilityContext context = new PlayerUtilityContext(500); //Exemplo sendo Echo
         context.executeStrategy();
-
-        context.setStrategy(new LowBudgetStrategy());
+        
+        context = new PlayerUtilityContext(1500); //Exemplo sendo meia compra
+        context.executeStrategy();
+        
+        context = new PlayerUtilityContext(3000); //Exemplo sendo FullBuy
         context.executeStrategy();
     }
 }

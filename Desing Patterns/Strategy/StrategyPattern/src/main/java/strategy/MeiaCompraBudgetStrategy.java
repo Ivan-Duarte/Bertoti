@@ -8,9 +8,9 @@ package strategy;
  *
  * @author Ivan
  */
-public class LowBudgetStrategy implements UtilityStrategy {
+public class MeiaCompraBudgetStrategy implements UtilityStrategy {
     @Override
     public void execute() {
-        System.out.println("Compra: 1x Smoke, 1x Flashbang");
+        System.out.println("| 1x Smoke + 1x Flashbang | ou | 1x Flashbang + 1x HE |");
     }
 }
