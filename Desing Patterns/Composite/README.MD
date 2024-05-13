@@ -8,7 +8,7 @@ O padrão Composite é uma solução de design que permite tratar objetos indivi
 
 <br>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="DCUML - Composite.PNG" style="max-width: 90%; height: auto;">
 </div>
 
