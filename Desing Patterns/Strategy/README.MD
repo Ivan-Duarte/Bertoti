@@ -8,7 +8,7 @@ O padrão de projeto "Strategy" oferece uma maneira flexível de encapsular algo
 
 <br>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="DCUML - Strategy.PNG" style="max-width: 90%; height: auto;">
 </div>
 

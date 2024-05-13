@@ -8,7 +8,7 @@ O padrão Observer é uma solução de design que permite que objetos, conhecido
 
 <br>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="DCUML - Observer.PNG" style="max-width: 90%; height: auto;">
 </div>
 
