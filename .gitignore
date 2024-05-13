@@ -1,13 +1,14 @@
-/Desing Patterns/Observer/CSGOHealthObserver/nbproject/private/
-/Desing Patterns/Observer/CSGOHealthObserver/build/
-
 /StrategyPattern/target/
 /Desing Patterns/Strategy/StrategyPattern/target/
 
+/Desing Patterns/Observer/CSGOHealthObserver/nbproject/private/
+/Desing Patterns/Observer/CSGOHealthObserver/build/
 
-/Desing Patterns/CSGOCompositePattern/nbproject/private/
-/Desing Patterns/CSGOCompositePattern/build/
-/Desing Patterns/Composite/CSGOCompositePattern/build/
 /Desing Patterns/Composite/CSGOCompositePattern/nbproject/private/
+/Desing Patterns/Composite/CSGOCompositePattern/build/
+
 /Desing Patterns/Singleton/CSGOSingleton/nbproject/private/
 /Desing Patterns/Singleton/CSGOSingleton/build/
+
+/Desing Patterns/Facade/CSGOFacadePattern/nbproject/private/
+/Desing Patterns/Facade/CSGOFacadePattern/build/

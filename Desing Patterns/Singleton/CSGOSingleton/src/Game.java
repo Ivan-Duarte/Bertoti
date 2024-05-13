@@ -24,9 +24,5 @@ public class Game {
         
         settings.setKeyMapping("Jump Throw ", "+Space -Mouse1");
         System.out.println("Atalho de Teclas Atualizado " + settings.getKeyMappings());
-        
-        
-
-        // Configurações podem ser acessadas e modificadas de qualquer parte do jogo
     }
 }
