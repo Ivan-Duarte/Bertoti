@@ -1,9 +1,9 @@
 # Desing Patterns
 
-## Strategy
+## Facade
 
 <div style="text-align: justify;">
-O padrão de projeto "Strategy" oferece uma maneira flexível de encapsular algoritmos e permitir que eles sejam trocados dinamicamente durante a execução do programa. Esta abordagem promove a flexibilidade e a manutenção do código, permitindo que diferentes algoritmos sejam facilmente intercambiáveis. Este README fornece uma introdução ao padrão "Strategy" e seu uso em projetos de software.
+O padrão Facade é uma solução de design que fornece uma interface simplificada para um conjunto complexo de subsistemas dentro de um sistema maior. Ele encapsula a complexidade subjacente dos subsistemas, fornecendo uma interface unificada para interagir com eles, o que facilita o uso e reduz a dependência de detalhes de implementação. O Facade é útil em situações onde é necessário simplificar a interação com sistemas complexos, ocultando sua complexidade e fornecendo uma interface mais intuitiva e fácil de usar. Este resumo oferece uma visão geral concisa do padrão Facade e destaca sua utilidade em projetos de software que lidam com sistemas complexos compostos por diversos subsistemas.
 </div>
 
 <br>
